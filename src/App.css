@@ -1,0 +1,19 @@
+.app {
+  height: 100%;
+  width: 100% !important;
+  padding: 30px;
+}
+
+table {
+  font: 14pt bold, "Vollkorn" !important;
+  border-collapse: collapse !important;
+  width: 1440px !important;
+  overflow-x: scroll;
+}
+
+td,
+th {
+  border: 1px solid #ddd !important;
+  padding: 8px !important;
+}
+
